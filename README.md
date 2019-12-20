@@ -2,7 +2,7 @@
 
 > Discussions and Planning about getting CRDT implementation on top of IPFS & libp2p
 
-# tl;dr;
+# Discuss
 
 CRDT, or Conflict-Free Replicated Data Types, is a type of specially-designed data structure used to achieve strong eventual consistency (SEC) and monotonicity (absence of rollbacks).
 
