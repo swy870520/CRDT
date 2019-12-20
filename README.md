@@ -1,6 +1,3 @@
-# CRDT Research
-
-> Discussions and Planning about getting CRDT implementation on top of IPFS & libp2p
 
 # Discuss
 
@@ -92,7 +89,3 @@ For a great explanation of these concepts plus what is a "Monotonic Join Semilat
 - Yjs through [y-ipfs-connector](https://github.com/pgte/y-ipfs-connector)
 - [ipfs-log](https://github.com/orbitdb/ipfs-log), append-only log CRDT used in [OrbitDB](https://github.com/orbitdb/orbit-db)
 - [peer-crdt](https://github.com/ipfs-shipyard/peer-crdt) and [peer-crdt-ipfs](https://github.com/ipfs-shipyard/peer-crdt-ipfs)
-
-### Terms
-
-There is an [IPFS Glossary](https://github.com/ipfs/glossary), a work in progress, which should have definitions for terms used in CRDT. If you are consistently running into terms that you do not know the meaning of, please open an issue on that repository and we can work on a definition that will help you (and others!) going forward.
